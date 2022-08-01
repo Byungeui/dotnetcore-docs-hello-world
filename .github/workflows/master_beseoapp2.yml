@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'beseoapp2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C55C964B884A4BC896C93D288CE6F683 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0DE7C10693A4E74B5C05C19BBF61BBD }}
           package: .
